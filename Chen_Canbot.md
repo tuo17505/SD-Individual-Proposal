@@ -4,7 +4,7 @@
 This project is aim to build a discord bot that provides Canvas support and notification to users on discord. The app will use Canvas APIs and libraries to build functions such as student authentication, notifications, reminders, announcements, new mails in mailbox, and etc. The list of the functions mentioned could be subject to change. Users do not have to do authentication in order to use the bot, and the bot could provide some basic functions to support like notification, reminders, timers and etc.
 
 Furthermore, the bot can be written in any of the major programming langauges, so to decide which langauge to code will be based on contributors' preferences. 
-
+![uml img](Chen_Canbot.png)
 
 NOTE: this project only focuses to provide support to students, not instructors.
 
